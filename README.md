@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sameershaikh0425
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java Programming Language
+- 👋 Hi, I’m @sameershaikh0425.
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning Java Programming Language.
 - 📫 How to reach me sameer.shaikh0425@gmail.com
 
 <!---
